@@ -1,0 +1,18 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+       int sum=0;
+        Scanner Num = new Scanner(System.in);
+        int N = Num.nextInt();
+        for(int i=0; i<=N;i++){
+            sum=sum+i;    
+        }
+        System.out.println(sum);
+    }
+}
