@@ -1,24 +1,24 @@
 //  algorithm  to check maximum of two number
-
+	Start
 	Enter two Number A,B;
 	Check number A is greater then Number B (A>B);
 	if true; 
 	Print A is maximum;
-
+	End
 //  algorithm  to check minimum of two number
-Start
+	Start
 	Enter two Number A,B;
 	Check number A is less then Number B (A<B);
 	if true;
 	Print A is minimum;
-End
+	End
 // algorithm to calculate average of two number
-Start
+	Start
  	Enter two Number num1, num2;
  	Take Sum of num1 and num2;
  	Sum of two Number devide by 2 and Store in a Variable like Average;
     Print Average;
-End
+	End
 
 // 1 w.a.p to print 1 to 10 number using while() loop 
 
